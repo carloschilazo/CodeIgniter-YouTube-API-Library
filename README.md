@@ -4,7 +4,7 @@ CodeIgniter Youtube API Library
 This library will let a user authenticate with youtube and perform actions such as uploading a video, commenting and rating videos, and getting video feeds.
 
 Some basic documentation can be found at http://code.google.com/apis/youtube/articles/codeigniter_library.html
-For the most up to date documentation checkout my blog at http://jimdoescode.blogspot.com
+
 
 Usage
 ------
