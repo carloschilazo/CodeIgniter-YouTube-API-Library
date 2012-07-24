@@ -28,3 +28,10 @@ $this->load->spark('youtube/1.0.0');
 
 Then load the library as specified in the usage.
 
+-For the most up to date documentation checkout my blog at http://jimdoescode.blogspot.com
+
+Remember to keep things lowercase (refactor) to be consistent with our code igniter naming convention
+SES intranet new version: https://lander.intra.servicioselectronicosdesalud.com/sergiocarlos/CodeIgniter-YouTube-API-Library.git
+(make sure you are signed on and with LDAP enabled to access internal repo)
+
+
